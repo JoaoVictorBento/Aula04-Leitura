@@ -1,0 +1,8 @@
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\bin\Debug\Aula 4 Leitura.exe.config
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\bin\Debug\Aula 4 Leitura.exe
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\bin\Debug\Aula 4 Leitura.pdb
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\obj\Debug\Aula 4 Leitura.csproj.AssemblyReference.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\obj\Debug\Aula 4 Leitura.csproj.SuggestedBindingRedirects.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\obj\Debug\Aula 4 Leitura.csproj.CoreCompileInputs.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\obj\Debug\Aula 4 Leitura.exe
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 4 Leitura\Aula 4 Leitura\obj\Debug\Aula 4 Leitura.pdb
